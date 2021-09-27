@@ -1,0 +1,39 @@
+header {
+    height: 300px;
+    width: 1200px;
+    background-color: blueviolet;
+
+}
+body {
+    
+    width: 1200px;
+    
+
+}
+inside {
+    display: flex;
+}
+
+#left-pannel {
+    width: 200px;
+    height: 2000px;
+    background-color: chocolate;
+
+}
+
+#right-pannel {
+    height: 2000px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
+#main {
+    height: 2000px;
+    background-color: crimson;
+    width: 800px;
+}  
+footer {
+    height: 300px;
+    background-color: darkgreen;
+    width:1200px;
+}
+
